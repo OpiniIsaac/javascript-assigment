@@ -4,5 +4,5 @@
 2. Diana Ajambo
 3. Kalibbala Johnson
 4. Atieno Mary
-5. Tony
+5. Ochol Ojelel
 6. Charles Johns
