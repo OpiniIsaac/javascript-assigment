@@ -16,3 +16,19 @@ switch (num) {
   default:
     console.log("enter a number from one to four");
 }
+let firstname = "mike";
+
+switch (firstname) {
+  case "mike":
+    console.log("first");
+    break;
+  case "john":
+    console.log("second");
+    break;
+  case "peter":
+    console.log("third");
+    break;
+
+  default:
+    console.log("please register");
+}
