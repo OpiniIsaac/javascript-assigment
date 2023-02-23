@@ -6,3 +6,4 @@
 4. Atieno Mary
 5. Tony Ochol Ojelel
 6. Charles Johns
+7. Odong Patrick
